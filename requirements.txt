@@ -1,0 +1,10 @@
+ipykernel
+pandas
+pymongo
+flask
+scikit-learn
+boto3
+dill
+imblearn
+xgboost
+- e.
